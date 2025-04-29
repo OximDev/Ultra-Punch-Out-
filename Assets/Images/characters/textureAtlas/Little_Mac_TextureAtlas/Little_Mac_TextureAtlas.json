@@ -1,0 +1,28 @@
+﻿{"ATLAS": {"SPRITES":[ 
+{"SPRITE" : {"name": "0000","x":0,"y":0,"w":266,"h":328,"rotated": false}},
+{"SPRITE" : {"name": "0001","x":535,"y":0,"w":254,"h":324,"rotated": false}},
+{"SPRITE" : {"name": "0002","x":266,"y":308,"w":258,"h":312,"rotated": false}},
+{"SPRITE" : {"name": "0003","x":524,"y":324,"w":264,"h":298,"rotated": false}},
+{"SPRITE" : {"name": "0004","x":266,"y":0,"w":269,"h":308,"rotated": false}},
+{"SPRITE" : {"name": "0005","x":524,"y":324,"w":264,"h":298,"rotated": false}},
+{"SPRITE" : {"name": "0006","x":266,"y":308,"w":258,"h":312,"rotated": false}},
+{"SPRITE" : {"name": "0007","x":535,"y":0,"w":254,"h":324,"rotated": false}},
+{"SPRITE" : {"name": "0008","x":789,"y":0,"w":217,"h":124,"rotated": false}},
+{"SPRITE" : {"name": "0009","x":0,"y":328,"w":208,"h":112,"rotated": false}},
+{"SPRITE" : {"name": "0010","x":789,"y":124,"w":211,"h":119,"rotated": false}},
+{"SPRITE" : {"name": "0011","x":789,"y":243,"w":204,"h":115,"rotated": false}},
+{"SPRITE" : {"name": "0012","x":788,"y":358,"w":206,"h":110,"rotated": false}},
+{"SPRITE" : {"name": "0013","x":789,"y":243,"w":204,"h":115,"rotated": false}},
+{"SPRITE" : {"name": "0014","x":789,"y":124,"w":211,"h":119,"rotated": false}},
+{"SPRITE" : {"name": "0015","x":0,"y":328,"w":208,"h":112,"rotated": false}},
+{"SPRITE" : {"name": "0016","x":789,"y":0,"w":217,"h":124,"rotated": false}}
+]},
+"meta": {
+"app": "Adobe Animate",
+"version": "21.0.6.41649",
+"image": "Little_Mac_TextureAtlas.png",
+"format": "RGBA8888",
+"size": {"w":1006,"h":622},
+"resolution": "1"
+}
+}

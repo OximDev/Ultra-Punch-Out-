@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Career_mainmenu.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Career Select0000" x="0" y="0" width="604" height="127" pivotX="0" pivotY="0"/>
+	<SubTexture name="Career Select0001" x="0" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0002" x="0" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0003" x="0" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0004" x="0" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0005" x="0" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0006" x="0" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0007" x="0" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0008" x="614" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0009" x="614" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0010" x="1228" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0011" x="1228" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0012" x="1842" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0013" x="1842" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0014" x="2456" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0015" x="2456" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0016" x="3070" y="0" width="604" height="127"/>
+	<SubTexture name="Career Select0017" x="0" y="137" width="604" height="127"/>
+	<SubTexture name="Career Select0018" x="614" y="137" width="604" height="127"/>
+	<SubTexture name="Career Select0019" x="1228" y="137" width="604" height="127"/>
+	<SubTexture name="Career Select0020" x="1842" y="137" width="604" height="127"/>
+	<SubTexture name="Career Select0021" x="2456" y="137" width="604" height="127"/>
+	<SubTexture name="Career Select0022" x="3070" y="137" width="604" height="127"/>
+	<SubTexture name="Career Select0023" x="0" y="274" width="604" height="127"/>
+	<SubTexture name="Career Select0024" x="614" y="274" width="604" height="127"/>
+	<SubTexture name="Career Select0025" x="614" y="274" width="604" height="127"/>
+	<SubTexture name="Career Select0026" x="1228" y="274" width="604" height="127"/>
+	<SubTexture name="Career Select0027" x="1228" y="274" width="604" height="127"/>
+	<SubTexture name="Career Select0028" x="1842" y="274" width="604" height="127"/>
+	<SubTexture name="Career Select0029" x="1842" y="274" width="604" height="127"/>
+	<SubTexture name="Career Select0030" x="2456" y="274" width="604" height="127"/>
+	<SubTexture name="Career confirmed0000" x="3070" y="274" width="500" height="94" pivotX="482.9" pivotY="130.65" frameX="-240" frameY="-76" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0001" x="0" y="411" width="804" height="213" frameX="-81" frameY="-27" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0002" x="814" y="411" width="814" height="217" frameX="-76" frameY="-25" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0003" x="1638" y="411" width="824" height="219" frameX="-71" frameY="-24" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0004" x="2472" y="411" width="834" height="223" frameX="-66" frameY="-22" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0005" x="0" y="644" width="842" height="227" frameX="-62" frameY="-20" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0006" x="852" y="644" width="852" height="229" frameX="-57" frameY="-19" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0007" x="1714" y="644" width="862" height="233" frameX="-52" frameY="-17" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0008" x="2586" y="644" width="872" height="235" frameX="-47" frameY="-16" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0009" x="0" y="889" width="880" height="239" frameX="-43" frameY="-14" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0010" x="890" y="889" width="890" height="243" frameX="-38" frameY="-12" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0011" x="1790" y="889" width="900" height="245" frameX="-33" frameY="-11" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0012" x="2700" y="889" width="910" height="249" frameX="-28" frameY="-9" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0013" x="0" y="1148" width="918" height="251" frameX="-24" frameY="-8" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0014" x="928" y="1148" width="928" height="255" frameX="-19" frameY="-6" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0015" x="1866" y="1148" width="938" height="257" frameX="-14" frameY="-5" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0016" x="2814" y="1148" width="948" height="261" frameX="-9" frameY="-3" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0017" x="0" y="1419" width="956" height="265" frameX="-5" frameY="-1" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0018" x="966" y="1419" width="966" height="267"/>
+	<SubTexture name="Career confirmed0019" x="1942" y="1419" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0020" x="2556" y="1419" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0021" x="3170" y="1419" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0022" x="0" y="1696" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0023" x="614" y="1696" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0024" x="1228" y="1696" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0025" x="1842" y="1696" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0026" x="2456" y="1696" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0027" x="3070" y="1696" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0028" x="0" y="1834" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0029" x="614" y="1834" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0030" x="1228" y="1834" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0031" x="1842" y="1834" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0032" x="2456" y="1834" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0033" x="3070" y="1834" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0034" x="0" y="1972" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0035" x="614" y="1972" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0036" x="1228" y="1972" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0037" x="1842" y="1972" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0038" x="2456" y="1972" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0039" x="3070" y="1972" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0040" x="0" y="2110" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0041" x="614" y="2110" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0042" x="1228" y="2110" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0043" x="1842" y="2110" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0044" x="2456" y="2110" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0045" x="3070" y="2110" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0046" x="0" y="2248" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0047" x="614" y="2248" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0048" x="1228" y="2248" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career confirmed0049" x="1842" y="2248" width="604" height="128" frameX="-181" frameY="-67" frameWidth="966" frameHeight="267"/>
+	<SubTexture name="Career uns0000" x="2456" y="2248" width="400" height="94" pivotX="0" pivotY="0"/>
+	<SubTexture name="Career uns0001" x="2866" y="2248" width="400" height="94"/>
+	<SubTexture name="Career uns0002" x="3276" y="2248" width="400" height="94"/>
+	<SubTexture name="Career uns0003" x="3686" y="2248" width="400" height="94"/>
+	<SubTexture name="Career uns0004" x="0" y="2386" width="400" height="94"/>
+	<SubTexture name="Career uns0005" x="410" y="2386" width="400" height="94"/>
+	<SubTexture name="Career uns0006" x="820" y="2386" width="400" height="94"/>
+	<SubTexture name="Career uns0007" x="1230" y="2386" width="400" height="94"/>
+</TextureAtlas>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Input_XBox_UI.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ButtonRight0000" x="0" y="0" width="35" height="35" pivotX="16" pivotY="17.15"/>
+	<SubTexture name="ButtonRight0001" x="45" y="0" width="35" height="35"/>
+	<SubTexture name="ButtonRight0002" x="90" y="0" width="35" height="35"/>
+	<SubTexture name="ButtonRight0003" x="135" y="0" width="35" height="35"/>
+	<SubTexture name="SymArrFrm0000" x="180" y="0" width="37" height="37" pivotX="28.75" pivotY="23.45" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0001" x="227" y="0" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0002" x="274" y="0" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0003" x="321" y="0" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0004" x="368" y="0" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0005" x="415" y="0" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0006" x="462" y="0" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0007" x="0" y="47" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0008" x="47" y="47" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0009" x="94" y="47" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0010" x="141" y="47" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0011" x="188" y="47" width="37" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0012" x="235" y="47" width="40" height="39" frameX="-7" frameY="-8" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0013" x="285" y="47" width="41" height="39" frameX="-10" frameY="-8" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0014" x="336" y="47" width="41" height="44" frameX="-6" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0015" x="387" y="47" width="41" height="44" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0016" x="438" y="47" width="37" height="47" frameX="-10" frameY="0" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0017" x="0" y="104" width="47" height="37" frameX="0" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0018" x="57" y="104" width="37" height="47" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="SymArrFrm0019" x="104" y="104" width="49" height="37" frameX="-10" frameY="-10" frameWidth="59" frameHeight="57"/>
+	<SubTexture name="arrowButton0000" x="163" y="104" width="29" height="23" pivotX="1" pivotY="1"/>
+	<SubTexture name="arrowButton0001" x="202" y="104" width="29" height="23"/>
+	<SubTexture name="trigger0000" x="241" y="104" width="88" height="36" pivotX="1" pivotY="1"/>
+	<SubTexture name="trigger0001" x="339" y="104" width="88" height="36"/>
+</TextureAtlas>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lil_Mac_Training.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MacBoxBag idle0000" x="0" y="0" width="438" height="435" pivotX="309.15" pivotY="231.3" frameX="-71" frameY="-10" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0001" x="0" y="0" width="438" height="435" frameX="-71" frameY="-10" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0002" x="448" y="0" width="428" height="447" frameX="-82" frameY="0" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0003" x="448" y="0" width="428" height="447" frameX="-82" frameY="0" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0004" x="886" y="0" width="453" height="443" frameX="-57" frameY="-5" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0005" x="886" y="0" width="453" height="443" frameX="-57" frameY="-5" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0006" x="1349" y="0" width="509" height="432" frameX="0" frameY="-18" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0007" x="1349" y="0" width="509" height="432" frameX="0" frameY="-18" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0008" x="1868" y="0" width="486" height="436" frameX="-23" frameY="-16" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0009" x="1868" y="0" width="486" height="436" frameX="-23" frameY="-16" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0010" x="2364" y="0" width="471" height="437" frameX="-38" frameY="-13" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0011" x="2364" y="0" width="471" height="437" frameX="-38" frameY="-13" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0012" x="2845" y="0" width="410" height="441" frameX="-100" frameY="-8" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0013" x="2845" y="0" width="410" height="441" frameX="-100" frameY="-8" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0014" x="3265" y="0" width="394" height="441" frameX="-116" frameY="-7" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag idle0015" x="3265" y="0" width="394" height="441" frameX="-116" frameY="-7" frameWidth="510" frameHeight="452"/>
+	<SubTexture name="MacBoxBag jabL0000" x="0" y="457" width="428" height="447" pivotX="675.35" pivotY="231.3" frameX="-448" frameY="0" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0001" x="438" y="457" width="553" height="443" frameX="-314" frameY="-5" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0002" x="1001" y="457" width="789" height="435" frameX="0" frameY="-16" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0003" x="1001" y="457" width="789" height="435" frameX="0" frameY="-16" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0004" x="1800" y="457" width="684" height="434" frameX="-121" frameY="-16" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0005" x="1800" y="457" width="684" height="434" frameX="-121" frameY="-16" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0006" x="2494" y="457" width="609" height="434" frameX="-255" frameY="-16" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0007" x="2494" y="457" width="609" height="434" frameX="-255" frameY="-16" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0008" x="3113" y="457" width="609" height="436" frameX="-266" frameY="-14" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0009" x="3113" y="457" width="609" height="436" frameX="-266" frameY="-14" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0010" x="0" y="914" width="520" height="437" frameX="-355" frameY="-12" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0011" x="0" y="914" width="520" height="437" frameX="-355" frameY="-12" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0012" x="530" y="914" width="483" height="435" frameX="-393" frameY="-12" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0013" x="530" y="914" width="483" height="435" frameX="-393" frameY="-12" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0014" x="1023" y="914" width="472" height="438" frameX="-403" frameY="-9" frameWidth="876" frameHeight="451"/>
+	<SubTexture name="MacBoxBag jabL0015" x="1023" y="914" width="472" height="438" frameX="-403" frameY="-9" frameWidth="876" frameHeight="451"/>
+</TextureAtlas>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mac_Reference_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down dodge reference0000" x="0" y="0" width="297" height="263" pivotX="148.9" pivotY="131.6"/>
+	<SubTexture name="Down punch reference0000" x="307" y="0" width="217" height="368" pivotX="53.85" pivotY="174.65" frameX="0" frameY="-8" frameWidth="256" frameHeight="378"/>
+	<SubTexture name="Down punch reference0001" x="534" y="0" width="249" height="377" frameX="-7" frameY="-1" frameWidth="256" frameHeight="378"/>
+	<SubTexture name="Down punch reference0002" x="793" y="0" width="234" height="373" frameX="-15" frameY="0" frameWidth="256" frameHeight="378"/>
+	<SubTexture name="Down punch reference0003" x="793" y="0" width="234" height="373" frameX="-15" frameY="0" frameWidth="256" frameHeight="378"/>
+	<SubTexture name="Down punch reference0004" x="534" y="0" width="249" height="377" frameX="-7" frameY="-1" frameWidth="256" frameHeight="378"/>
+	<SubTexture name="Down punch reference0005" x="534" y="0" width="249" height="377" frameX="-7" frameY="-1" frameWidth="256" frameHeight="378"/>
+	<SubTexture name="Horizontal dodges reference0000" x="1037" y="0" width="254" height="500" pivotX="147.3" pivotY="320.35" frameX="-21" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0001" x="1301" y="0" width="278" height="468" frameX="0" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0002" x="1589" y="0" width="401" height="489" frameX="-76" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0003" x="2000" y="0" width="411" height="489" frameX="-76" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0004" x="2421" y="0" width="413" height="489" frameX="-76" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0005" x="2844" y="0" width="416" height="489" frameX="-76" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0006" x="2844" y="0" width="416" height="489" frameX="-76" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0007" x="2421" y="0" width="413" height="489" frameX="-76" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0008" x="2000" y="0" width="411" height="489" frameX="-76" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0009" x="1589" y="0" width="401" height="489" frameX="-76" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0010" x="3270" y="0" width="308" height="479" frameX="-26" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0011" x="3588" y="0" width="307" height="479" frameX="-13" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0012" x="1301" y="0" width="278" height="468" frameX="0" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Horizontal dodges reference0013" x="1037" y="0" width="254" height="500" frameX="-21" frameY="0" frameWidth="492" frameHeight="500"/>
+	<SubTexture name="Interpolación 10000" x="0" y="510" width="339" height="337" pivotX="169.55" pivotY="168.25"/>
+	<SubTexture name="Mac hurt0000" x="349" y="510" width="357" height="355" pivotX="169.55" pivotY="168.25" frameX="0" frameY="0" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0001" x="349" y="510" width="357" height="355" frameX="0" frameY="0" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0002" x="716" y="510" width="360" height="360" frameX="-10" frameY="-8" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0003" x="716" y="510" width="360" height="360" frameX="-10" frameY="-8" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0004" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0005" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0006" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0007" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0008" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0009" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0010" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0011" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0012" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0013" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac hurt0014" x="1086" y="510" width="364" height="354" frameX="-27" frameY="-30" frameWidth="391" frameHeight="384"/>
+	<SubTexture name="Mac idle reference0000" x="1460" y="510" width="253" height="359" pivotX="143.65" pivotY="179.15" frameX="-17" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0001" x="1723" y="510" width="252" height="291" frameX="-17" frameY="-7" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0002" x="1723" y="510" width="252" height="291" frameX="-17" frameY="-7" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0003" x="1985" y="510" width="259" height="280" frameX="-5" frameY="-15" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0004" x="1985" y="510" width="259" height="280" frameX="-5" frameY="-15" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0005" x="2254" y="510" width="263" height="278" frameX="0" frameY="-18" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0006" x="2254" y="510" width="263" height="278" frameX="0" frameY="-18" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0007" x="2527" y="510" width="263" height="276" frameX="-1" frameY="-21" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0008" x="2527" y="510" width="263" height="276" frameX="-1" frameY="-21" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0009" x="2527" y="510" width="263" height="276" frameX="-1" frameY="-21" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0010" x="2527" y="510" width="263" height="276" frameX="-1" frameY="-21" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0011" x="2254" y="510" width="263" height="278" frameX="0" frameY="-18" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0012" x="2254" y="510" width="263" height="278" frameX="0" frameY="-18" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0013" x="1985" y="510" width="259" height="280" frameX="-5" frameY="-15" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0014" x="1985" y="510" width="259" height="280" frameX="-5" frameY="-15" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0015" x="1723" y="510" width="252" height="291" frameX="-17" frameY="-7" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0016" x="1723" y="510" width="252" height="291" frameX="-17" frameY="-7" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Mac idle reference0017" x="1460" y="510" width="253" height="359" frameX="-17" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Star Punch reference0000" x="2800" y="510" width="218" height="369" pivotX="139.35" pivotY="261.8" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0001" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0002" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0003" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0004" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0005" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0006" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0007" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0008" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0009" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0010" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0011" x="2800" y="510" width="218" height="369" frameX="0" frameY="-194" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0012" x="3028" y="510" width="218" height="517" frameX="-3" frameY="-41" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0013" x="3256" y="510" width="218" height="517" frameX="-28" frameY="-2" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0014" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0015" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0016" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0017" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0018" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0019" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0020" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0021" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0022" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0023" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Star Punch reference0024" x="3484" y="510" width="207" height="523" frameX="-36" frameY="0" frameWidth="246" frameHeight="563"/>
+	<SubTexture name="Tap atack Down reference0000" x="3701" y="510" width="240" height="355" pivotX="119.15" pivotY="181.25" frameX="0" frameY="0" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0001" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0002" x="205" y="1043" width="208" height="279" frameX="-12" frameY="-12" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0003" x="205" y="1043" width="208" height="279" frameX="-12" frameY="-12" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0004" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0005" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0006" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0007" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0008" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0009" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0010" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0011" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0012" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0013" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap atack Down reference0014" x="0" y="1043" width="195" height="353" frameX="-22" frameY="-5" frameWidth="240" frameHeight="358"/>
+	<SubTexture name="Tap up atack reference0000" x="423" y="1043" width="264" height="349" pivotX="132" pivotY="170"/>
+	<SubTexture name="Tap up atack reference0001" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0002" x="968" y="1043" width="255" height="324" frameX="-1" frameY="-24" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0003" x="968" y="1043" width="255" height="324" frameX="-1" frameY="-24" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0004" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0005" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0006" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0007" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0008" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0009" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0010" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0011" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0012" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Tap up atack reference0013" x="697" y="1043" width="261" height="327" frameX="-2" frameY="-21" frameWidth="264" frameHeight="349"/>
+	<SubTexture name="Up punch reference0000" x="1233" y="1043" width="209" height="482" pivotX="111.45" pivotY="261.8" frameX="-13" frameY="-33" frameWidth="222" frameHeight="523"/>
+	<SubTexture name="Up punch reference0001" x="1452" y="1043" width="207" height="523" frameX="-8" frameY="0" frameWidth="222" frameHeight="523"/>
+	<SubTexture name="Up punch reference0002" x="1669" y="1043" width="218" height="517" frameX="0" frameY="-2" frameWidth="222" frameHeight="523"/>
+	<SubTexture name="Up punch reference0003" x="1669" y="1043" width="218" height="517" frameX="0" frameY="-2" frameWidth="222" frameHeight="523"/>
+	<SubTexture name="Up punch reference0004" x="1452" y="1043" width="207" height="523" frameX="-8" frameY="0" frameWidth="222" frameHeight="523"/>
+	<SubTexture name="Up punch reference0005" x="1452" y="1043" width="207" height="523" frameX="-8" frameY="0" frameWidth="222" frameHeight="523"/>
+	<SubTexture name="Up punch reference0006" x="1452" y="1043" width="207" height="523" frameX="-8" frameY="0" frameWidth="222" frameHeight="523"/>
+	<SubTexture name="Up punch reference0007" x="1452" y="1043" width="207" height="523" frameX="-8" frameY="0" frameWidth="222" frameHeight="523"/>
+	<SubTexture name="Up punch reference0008" x="1452" y="1043" width="207" height="523" frameX="-8" frameY="0" frameWidth="222" frameHeight="523"/>
+	<SubTexture name="Up punch reference0009" x="1452" y="1043" width="207" height="523" frameX="-8" frameY="0" frameWidth="222" frameHeight="523"/>
+</TextureAtlas>

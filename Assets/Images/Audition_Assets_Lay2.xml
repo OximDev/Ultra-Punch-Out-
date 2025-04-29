@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Audition_Assets_Lay2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="audition lay 20000" x="0" y="0" width="2218" height="409" pivotX="533.45" pivotY="28.35"/>
+	<SubTexture name="audition lay 20000" x="0" y="0" width="2218" height="409"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="score_counter.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Off" x="0" y="0" width="32" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="0" x="42" y="0" width="32" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="1" x="84" y="0" width="32" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="2" x="126" y="0" width="32" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="3" x="168" y="0" width="32" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="4" x="210" y="0" width="32" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="5" x="0" y="58" width="32" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="6" x="42" y="58" width="32" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="7" x="84" y="58" width="32" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="8" x="126" y="58" width="32" height="48" pivotX="0" pivotY="0"/>
+	<SubTexture name="9" x="168" y="58" width="32" height="48" pivotX="0" pivotY="0"/>
+</TextureAtlas>

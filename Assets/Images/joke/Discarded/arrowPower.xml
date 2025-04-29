@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrowPower.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="emptyArrow0000" x="0" y="0" width="39" height="59" pivotX="0" pivotY="0"/>
+	<SubTexture name="powerArrows0000" x="49" y="0" width="39" height="59" pivotX="0" pivotY="0"/>
+	<SubTexture name="powerArrows0001" x="98" y="0" width="39" height="59"/>
+	<SubTexture name="powerArrows0002" x="147" y="0" width="39" height="59"/>
+	<SubTexture name="powerArrows0003" x="196" y="0" width="39" height="59"/>
+	<SubTexture name="powerArrows0004" x="246" y="69" width="39" height="59"/>
+</TextureAtlas>

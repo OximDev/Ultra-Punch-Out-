@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MainMenuTxT.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Career Select0000" x="0" y="0" width="604" height="127" pivotX="0" pivotY="0"/>
+	<SubTexture name="Career uns0000" x="614" y="0" width="400" height="94" pivotX="0" pivotY="0"/>
+	<SubTexture name="Career uns0001" x="1024" y="0" width="400" height="94"/>
+	<SubTexture name="Career uns0002" x="1434" y="0" width="400" height="94"/>
+	<SubTexture name="Career uns0003" x="0" y="137" width="400" height="94"/>
+	<SubTexture name="Career uns0004" x="410" y="137" width="400" height="94"/>
+	<SubTexture name="Career uns0005" x="820" y="137" width="400" height="94"/>
+	<SubTexture name="Career uns0006" x="1230" y="137" width="400" height="94"/>
+	<SubTexture name="Career uns0007" x="1640" y="137" width="400" height="94"/>
+	<SubTexture name="freePlay select0000" x="0" y="241" width="319" height="210" pivotX="0" pivotY="0"/>
+	<SubTexture name="WhatTheHellIsThis0000" x="329" y="241" width="101" height="94" pivotX="50.75" pivotY="94.7"/>
+	<SubTexture name="config select0000" x="440" y="241" width="410" height="176" pivotX="0" pivotY="0"/>
+	<SubTexture name="config uns0000" x="860" y="241" width="389" height="173" pivotX="0" pivotY="0"/>
+	<SubTexture name="config uns0001" x="1259" y="241" width="389" height="173"/>
+	<SubTexture name="config uns0002" x="1658" y="241" width="389" height="173"/>
+	<SubTexture name="config uns0003" x="0" y="461" width="389" height="173"/>
+	<SubTexture name="config uns0004" x="399" y="461" width="389" height="173"/>
+	<SubTexture name="config uns0005" x="798" y="461" width="389" height="173"/>
+	<SubTexture name="config uns0006" x="1197" y="461" width="389" height="173"/>
+	<SubTexture name="config uns0007" x="1596" y="461" width="389" height="173"/>
+	<SubTexture name="freePlay uns0000" x="0" y="644" width="347" height="202" pivotX="0" pivotY="0"/>
+	<SubTexture name="freePlay uns0001" x="357" y="644" width="347" height="202"/>
+	<SubTexture name="freePlay uns0002" x="714" y="644" width="347" height="202"/>
+	<SubTexture name="freePlay uns0003" x="1071" y="644" width="347" height="202"/>
+	<SubTexture name="freePlay uns0004" x="1428" y="644" width="347" height="202"/>
+	<SubTexture name="freePlay uns0005" x="0" y="856" width="347" height="202"/>
+	<SubTexture name="freePlay uns0006" x="357" y="856" width="347" height="202"/>
+	<SubTexture name="freePlay uns0007" x="714" y="856" width="347" height="202"/>
+</TextureAtlas>

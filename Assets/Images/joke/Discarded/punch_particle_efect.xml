@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="punch_particle_efect.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Star Punch Particle0000" x="0" y="0" width="80" height="86" pivotX="305.85" pivotY="287.55" frameX="-267" frameY="-245" frameWidth="619" frameHeight="577"/>
+	<SubTexture name="Star Punch Particle0001" x="90" y="0" width="188" height="184" frameX="-213" frameY="-196" frameWidth="619" frameHeight="577"/>
+	<SubTexture name="Star Punch Particle0002" x="288" y="0" width="295" height="281" frameX="-160" frameY="-147" frameWidth="619" frameHeight="577"/>
+	<SubTexture name="Star Punch Particle0003" x="593" y="0" width="405" height="381" frameX="-105" frameY="-97" frameWidth="619" frameHeight="577"/>
+	<SubTexture name="Star Punch Particle0004" x="1008" y="0" width="513" height="480" frameX="-51" frameY="-47" frameWidth="619" frameHeight="577"/>
+	<SubTexture name="Star Punch Particle0005" x="0" y="490" width="619" height="577"/>
+</TextureAtlas>

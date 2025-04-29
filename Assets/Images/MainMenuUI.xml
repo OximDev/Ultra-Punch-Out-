@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MainMenuUI.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowIdle instancia 10000" x="0" y="0" width="69" height="86" pivotX="64.15" pivotY="84.7" frameX="-30" frameY="0" frameWidth="103" frameHeight="86"/>
+	<SubTexture name="arrowIdle instancia 10001" x="79" y="0" width="103" height="39" frameX="0" frameY="-22" frameWidth="103" frameHeight="86"/>
+	<SubTexture name="arrowIdle instancia 10002" x="0" y="96" width="93" height="47" frameX="-4" frameY="-18" frameWidth="103" frameHeight="86"/>
+</TextureAtlas>

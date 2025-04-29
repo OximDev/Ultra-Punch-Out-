@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Effects_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blood split0000" x="0" y="0" width="75" height="190" pivotX="-442.4" pivotY="180.45" frameX="0" frameY="-108" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0001" x="85" y="0" width="131" height="200" frameX="-22" frameY="-53" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0002" x="226" y="0" width="202" height="181" frameX="-46" frameY="-5" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0003" x="438" y="0" width="210" height="143" frameX="-62" frameY="0" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0004" x="438" y="0" width="210" height="143" frameX="-62" frameY="0" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0005" x="658" y="0" width="219" height="135" frameX="-89" frameY="-18" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0006" x="658" y="0" width="219" height="135" frameX="-89" frameY="-18" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0007" x="887" y="0" width="224" height="181" frameX="-113" frameY="-35" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0008" x="1121" y="0" width="198" height="179" frameX="-161" frameY="-100" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0009" x="1329" y="0" width="163" height="143" frameX="-217" frameY="-175" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0010" x="1502" y="0" width="152" height="121" frameX="-231" frameY="-259" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="blood split0011" x="1664" y="0" width="0" height="0" frameX="442" frameY="-180" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="impact 10000" x="1674" y="0" width="189" height="270" pivotX="217.1" pivotY="301.05" frameX="-28" frameY="-6" frameWidth="252" frameHeight="291"/>
+	<SubTexture name="impact 10001" x="0" y="280" width="213" height="265" frameX="-23" frameY="-16" frameWidth="252" frameHeight="291"/>
+	<SubTexture name="impact 10002" x="223" y="280" width="252" height="291"/>
+	<SubTexture name="impact 10003" x="485" y="280" width="0" height="0" frameX="-217" frameY="-301" frameWidth="252" frameHeight="291"/>
+	<SubTexture name="impact 20000" x="495" y="280" width="169" height="201" pivotX="223.4" pivotY="295.45" frameX="-45" frameY="-31" frameWidth="265" frameHeight="257"/>
+	<SubTexture name="impact 20001" x="674" y="280" width="225" height="238" frameX="-20" frameY="-9" frameWidth="265" frameHeight="257"/>
+	<SubTexture name="impact 20002" x="909" y="280" width="265" height="257"/>
+	<SubTexture name="impact 20003" x="1184" y="280" width="0" height="0" frameX="-223" frameY="-295" frameWidth="265" frameHeight="257"/>
+	<SubTexture name="impact 30000" x="1194" y="280" width="194" height="186" pivotX="138.3" pivotY="155.85" frameX="-40" frameY="-55" frameWidth="284" frameHeight="293"/>
+	<SubTexture name="impact 30001" x="1398" y="280" width="220" height="218" frameX="-24" frameY="-32" frameWidth="284" frameHeight="293"/>
+	<SubTexture name="impact 30002" x="1628" y="280" width="284" height="293"/>
+	<SubTexture name="impact 40000" x="0" y="583" width="202" height="211" pivotX="159.7" pivotY="170.85" frameX="-60" frameY="-62" frameWidth="298" frameHeight="315"/>
+	<SubTexture name="impact 40001" x="212" y="583" width="235" height="240" frameX="-38" frameY="-39" frameWidth="298" frameHeight="315"/>
+	<SubTexture name="impact 40002" x="457" y="583" width="298" height="315"/>
+	<SubTexture name="impact 40003" x="765" y="583" width="0" height="0" frameX="-159" frameY="-170" frameWidth="298" frameHeight="315"/>
+	<SubTexture name="impact Star End0000" x="775" y="583" width="196" height="195" pivotX="40.4" pivotY="291.5" frameX="-32" frameY="-71" frameWidth="279" frameHeight="266"/>
+	<SubTexture name="impact Star End0001" x="981" y="583" width="266" height="231" frameX="-2" frameY="-21" frameWidth="279" frameHeight="266"/>
+	<SubTexture name="impact Star End0002" x="1257" y="583" width="279" height="236" frameX="0" frameY="0" frameWidth="279" frameHeight="266"/>
+	<SubTexture name="impact Star End0003" x="1546" y="583" width="0" height="0" frameX="-40" frameY="-291" frameWidth="279" frameHeight="266"/>
+	<SubTexture name="impact electric0000" x="1556" y="583" width="273" height="199" pivotX="152.45" pivotY="129" frameX="-22" frameY="-23" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="impact electric0001" x="0" y="908" width="240" height="199" frameX="-29" frameY="-13" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="impact electric0002" x="250" y="908" width="327" height="233" frameX="-3" frameY="-6" frameWidth="349" frameHeight="255"/>
+	<SubTexture name="impact electric0003" x="587" y="908" width="349" height="255"/>
+	<SubTexture name="impact punch End0000" x="946" y="908" width="196" height="195" pivotX="40.4" pivotY="291.5" frameX="-32" frameY="-71" frameWidth="279" frameHeight="266"/>
+	<SubTexture name="impact punch End0001" x="1152" y="908" width="266" height="231" frameX="-2" frameY="-21" frameWidth="279" frameHeight="266"/>
+	<SubTexture name="impact punch End0002" x="1428" y="908" width="279" height="236" frameX="0" frameY="0" frameWidth="279" frameHeight="266"/>
+	<SubTexture name="impact punch End0003" x="1717" y="908" width="0" height="0" frameX="-40" frameY="-291" frameWidth="279" frameHeight="266"/>
+	<SubTexture name="sloober split0000" x="1727" y="908" width="75" height="190" pivotX="-442.4" pivotY="180.45" frameX="0" frameY="-108" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0001" x="1812" y="908" width="131" height="200" frameX="-22" frameY="-53" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0002" x="0" y="1173" width="202" height="181" frameX="-46" frameY="-5" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0003" x="212" y="1173" width="210" height="143" frameX="-62" frameY="0" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0004" x="212" y="1173" width="210" height="143" frameX="-62" frameY="0" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0005" x="432" y="1173" width="219" height="135" frameX="-89" frameY="-18" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0006" x="432" y="1173" width="219" height="135" frameX="-89" frameY="-18" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0007" x="661" y="1173" width="224" height="181" frameX="-113" frameY="-35" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0008" x="895" y="1173" width="198" height="179" frameX="-161" frameY="-100" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0009" x="1103" y="1173" width="163" height="143" frameX="-217" frameY="-175" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0010" x="1276" y="1173" width="152" height="121" frameX="-231" frameY="-259" frameWidth="383" frameHeight="380"/>
+	<SubTexture name="sloober split0011" x="1438" y="1173" width="0" height="0" frameX="442" frameY="-180" frameWidth="383" frameHeight="380"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KO_UI.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Upercut Launch icon0000" x="0" y="0" width="119" height="119" pivotX="12.8" pivotY="12.95" frameX="0" frameY="-12" frameWidth="139" frameHeight="131"/>
+	<SubTexture name="Upercut Launch icon0001" x="129" y="0" width="119" height="119" frameX="0" frameY="-12" frameWidth="139" frameHeight="131"/>
+	<SubTexture name="Upercut Launch icon0002" x="258" y="0" width="139" height="131"/>
+	<SubTexture name="Upercut Launch icon0003" x="0" y="141" width="139" height="131"/>
+	<SubTexture name="Upercut Launch icon0004" x="149" y="141" width="65" height="72" frameX="0" frameY="-59" frameWidth="139" frameHeight="131"/>
+	<SubTexture name="punch Empty icons0000" x="224" y="141" width="75" height="71" pivotX="0" pivotY="0"/>
+	<SubTexture name="punch KO icon0000" x="309" y="141" width="67" height="73" pivotX="12.8" pivotY="-43.05" frameX="0" frameY="-3" frameWidth="82" frameHeight="76"/>
+	<SubTexture name="punch KO icon0001" x="386" y="141" width="82" height="76"/>
+</TextureAtlas>

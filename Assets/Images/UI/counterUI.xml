@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="counterUI.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="0 small instancia 10000" x="0" y="0" width="35" height="37" pivotX="0" pivotY="0"/>
+	<SubTexture name="1 small instancia 10000" x="45" y="0" width="33" height="38" pivotX="0.2" pivotY="1.35"/>
+	<SubTexture name="2 small instancia 10000" x="88" y="0" width="36" height="38" pivotX="0.15" pivotY="1.25"/>
+	<SubTexture name="3 small instancia 10000" x="134" y="0" width="35" height="39" pivotX="0.2" pivotY="1.35"/>
+	<SubTexture name="4 small instancia 10000" x="179" y="0" width="34" height="36" pivotX="0.1" pivotY="1.5"/>
+	<SubTexture name="5 small instancia 10000" x="0" y="49" width="37" height="39" pivotX="0.1" pivotY="1.7"/>
+	<SubTexture name="6 small instancia 10000" x="47" y="49" width="35" height="39" pivotX="0.1" pivotY="1.35"/>
+	<SubTexture name="7 small instancia 10000" x="92" y="49" width="35" height="39" pivotX="0.1" pivotY="1.4"/>
+	<SubTexture name="8 small instancia 10000" x="137" y="49" width="35" height="37" pivotX="0.1" pivotY="1.6"/>
+	<SubTexture name="9 small instancia 10000" x="182" y="49" width="35" height="39" pivotX="0.15" pivotY="1.55"/>
+</TextureAtlas>
