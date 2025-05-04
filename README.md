@@ -14,7 +14,7 @@ To start, install the latest version of "clickteam fusion developer 2.5"
 
 -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
-![image](https://github.com/user-attachments/assets/69bfde20-2300-482e-b156-af201b9e6afc)
+![crdts](https://github.com/user-attachments/assets/6605fa4b-07fc-4312-ac01-f6006a54be22)
 
 Miguel Angel Sanchez - Coder, artist, composer, boss
 
