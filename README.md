@@ -8,10 +8,26 @@ Can you defeat them all and reach the final circuit and be the boxin world champ
 -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
 ![hmam](https://github.com/user-attachments/assets/5181dca7-c630-4fe9-bd49-b54774a2dd09)
+
 To start, install the latest version of "clickteam fusion developer 2.5"
 (Multimedia Fusion does not work) and modify everything you want in this incredible game!!!
 
 -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
+![image](https://github.com/user-attachments/assets/69bfde20-2300-482e-b156-af201b9e6afc)
+
+Miguel Angel Sanchez - Coder, artist, composer, boss
+
+Angel David Rodriges - Coder, Github creator page
+
+Anthony Villanueva - Artist, spriter, composer
+
+Fluffy - Quiang Li VA
+
+Dylansio - Animator
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
 Copyright by ©Nintendo
+
 ![image](https://github.com/user-attachments/assets/ee19bbde-06fe-422e-99c9-feaa207503c2)
